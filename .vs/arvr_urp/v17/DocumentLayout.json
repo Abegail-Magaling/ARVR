@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enama\\Documents\\Unity-ARVR\\arvr_urp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{062A3183-C341-48B6-8E11-E8798CAF69C4}|Assembly-CSharp.csproj|c:\\users\\enama\\documents\\unity-arvr\\arvr_urp\\assets\\scripts\\anchorplacer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062A3183-C341-48B6-8E11-E8798CAF69C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\anchorplacer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062A3183-C341-48B6-8E11-E8798CAF69C4}|Assembly-CSharp.csproj|C:\\Users\\enama\\Documents\\Unity-ARVR\\arvr_urp\\assets\\scripts\\settingstoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062A3183-C341-48B6-8E11-E8798CAF69C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\settingstoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnchorPlacer2.cs",
+              "DocumentMoniker": "C:\\Users\\enama\\Documents\\Unity-ARVR\\arvr_urp\\Assets\\Scripts\\AnchorPlacer2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnchorPlacer2.cs",
+              "ToolTip": "C:\\Users\\enama\\Documents\\Unity-ARVR\\arvr_urp\\Assets\\Scripts\\AnchorPlacer2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnchorPlacer2.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowH8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:51:01.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsToggle.cs",
+              "DocumentMoniker": "C:\\Users\\enama\\Documents\\Unity-ARVR\\arvr_urp\\Assets\\Scripts\\SettingsToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SettingsToggle.cs",
+              "ToolTip": "C:\\Users\\enama\\Documents\\Unity-ARVR\\arvr_urp\\Assets\\Scripts\\SettingsToggle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SettingsToggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:26:43.105Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
